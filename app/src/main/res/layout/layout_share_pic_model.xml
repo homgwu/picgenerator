@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="200dp"
+    android:background="#ECAA0A">
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="94dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/pic_bg" />
+
+    <ImageView
+        android:id="@+id/invitation_share_link_pic_avatar_iv"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="10dp"
+        android:src="@mipmap/ic_launcher" />
+</FrameLayout>

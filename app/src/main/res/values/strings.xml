@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicGenerator</string>
+    <string name="generate_pic_success">生成图片成功</string>
+    <string name="generate_pic_error">生成图片失败</string>
+</resources>
